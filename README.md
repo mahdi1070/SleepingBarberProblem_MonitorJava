@@ -1,4 +1,4 @@
-Sleeping-Barber-Problem-Monitor-Java
+Sleeping Barber Problem Monitor Java
 
 A short description of the sleeping barber problem
 
